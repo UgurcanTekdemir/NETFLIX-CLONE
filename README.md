@@ -12,5 +12,4 @@ HTML CSS ile görsel arayüz sağlandı.
 
 <h1> EKRAN GÖRÜNÜMÜ</h1>
 
-<img src="netflix-clone.gif"
-
+![](netflix-clone.gif)

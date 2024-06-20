@@ -1,4 +1,5 @@
-# Netflix-Clone
+# NETFLIX-CLONE
+
 
 <h1> Netflix Clone </h1>
 
@@ -11,4 +12,5 @@ HTML CSS ile görsel arayüz sağlandı.
 
 <h1> EKRAN GÖRÜNÜMÜ</h1>
 
-<img src="netflix-clone.gif">
+<img src="netflix-clone.gif"
+
